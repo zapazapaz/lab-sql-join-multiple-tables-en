@@ -4,7 +4,7 @@
 
 In this lab, you will be using the Sakila database of movie rentals.
 
-You can save your solutions in a file solutions.sql.
+You can save your solutions in a file `solutions.sql`.
 
 ## Instructions
 
