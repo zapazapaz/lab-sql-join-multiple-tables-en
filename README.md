@@ -4,6 +4,8 @@
 
 In this lab, you will be using the Sakila database of movie rentals.
 
+You can save your solutions in a file solutions.sql.
+
 ## Instructions
 
 1. Write a query to display for each store its store ID, city, and country.
